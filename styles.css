@@ -4,6 +4,16 @@
     align-content: center;
     justify-content: center;
 }
+td{
+	border: 1px solid black;
+	padding: 1px;
+}
+#t12{
+	justify-content: center;
+}
+#t13{
+	justify-content: center;
+}
 
 .center{
 
